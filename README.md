@@ -2,17 +2,31 @@
 
 A modern, powerful web scraping application built with Next.js and Firecrawl. This application allows you to scrape individual URLs or crawl entire websites, converting the content into clean markdown format with a beautiful, responsive UI.
 
-🌐 Web Proxy Service
-For reliable web scraping, especially when dealing with rate limits or IP blocks, consider using a premium web proxy service. We recommend:
+## 🌐 Web Proxy Service
 
-Toolip.io Premium Proxies
+For reliable web scraping, especially when dealing with rate limits or IP blocks, we recommend using [Toolip.io Premium Proxies](https://toolip.io/?ref=themetaverseguy).
 
-Features of Toolip.io:
+### Features of Toolip.io:
+- 🚀 High-performance proxy servers
+- 🌍 Multiple global locations
+- ⚡ Ultra-fast response times
+- 🔒 Secure and anonymous
+- 🎯 Perfect for web scraping projects
+- 💪 Reliable uptime
+- 🔄 Automatic rotation
+- 🛡️ Advanced IP protection
 
-High-performance proxy servers
-Multiple locations
-Reliable uptime
-Perfect for web scraping projects
+### Why Use Toolip.io?
+- Bypass rate limiting
+- Avoid IP blocks
+- Access geo-restricted content
+- Enhance scraping reliability
+- Improve success rates
+- Scale your scraping operations
+
+[Get Started with Toolip.io](https://toolip.io/?ref=themetaverseguy)
+
+---
 
 ![WebScrapper Preview](preview.png)
 
